@@ -11,5 +11,5 @@ Save the template file locally
 
 Within console `$ rails new mynewapp -m ~/template.rb`  pass the proper path of the template on your system
 
-The template will ask for the name of your app, once everything is compiled you can cd into your new app, start a rails server, and visit [http://localhost:3000/creatives/index](http://localhost:3000/creatives/index
+The template will ask for the name of your app, once everything is compiled you can cd into your new app, start a rails server, and visit [http://localhost:3000/creatives/index](http://localhost:3000/creatives/index)
 
